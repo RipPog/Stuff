@@ -144,6 +144,7 @@ function library.new(library_title, cfg_location)
 		syn.protect_gui(ScreenGui)
 	end
 
+
 	ScreenGui.Parent = game:GetService("CoreGui")
 
     function menu.IsOpen()
