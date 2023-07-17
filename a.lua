@@ -1,10 +1,3 @@
--- // Made by Blissful#4992 // --
--- // Made by Blissful#4992 // --
--- // Made by Blissful#4992 // --
--- // Made by Blissful#4992 // --
-
--- Thx blissfull and whereever I got this from I dont remember
-
 local Library = {};
 
 local Camera = workspace.CurrentCamera;
