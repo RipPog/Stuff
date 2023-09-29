@@ -11,7 +11,7 @@ if game.PlaceId == 2788229376 then
     getgenv().Notification = true
     getgenv().AutoMacro = true
     getgenv().Macro = true
-    getgenv().MacroMode = "Keyboard" -- Keyboard, Mouse
+    getgenv().MacroMode = "Mouse" -- Keyboard, Mouse
     getgenv().GodMacro = true
     getgenv().GodMacroKey = Enum.KeyCode.V
     getgenv().GodMacroAuto = false
